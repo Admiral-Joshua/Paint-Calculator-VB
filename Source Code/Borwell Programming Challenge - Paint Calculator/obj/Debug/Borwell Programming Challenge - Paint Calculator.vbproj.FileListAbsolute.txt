@@ -1,0 +1,16 @@
+C:\Users\Admiral Joshua\AppData\Local\Temporary Projects\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.exe.config
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.exe.config
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.exe.manifest
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.application
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.exe
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.pdb
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\bin\Debug\Borwell Programming Challenge - Paint Calculator.xml
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell_Programming_Challenge___Paint_Calculator.Form1.resources
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell_Programming_Challenge___Paint_Calculator.Resources.resources
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.vbproj.GenerateResource.Cache
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.exe.manifest
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.application
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.exe
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.xml
+C:\Users\Admiral Joshua\Documents\Paint-Calculator-VB\Source Code\Borwell Programming Challenge - Paint Calculator\obj\Debug\Borwell Programming Challenge - Paint Calculator.pdb
